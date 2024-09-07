@@ -60,7 +60,7 @@ The model achieved impressive results on the validation dataset:
 
 Below is a visual representation of the model's performance on a sample video:
 
-![Model Output](https://github.com/4prince8/Object_Detection_Yolov10/blob/main/RPS0_detected.gif)
+![Model Output](Media/RPS0_detected.gif)
 
 ## Contributing
 
